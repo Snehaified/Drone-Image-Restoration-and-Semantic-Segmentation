@@ -26,6 +26,12 @@ The implemented algorithm processes each image through the following steps:
 **0utput**
 <img width="2206" height="1106" alt="image" src="https://github.com/user-attachments/assets/5140839c-3ecd-47fb-9bef-cebf5fa28528" />
 
+<img width="746" height="762" alt="image" src="https://github.com/user-attachments/assets/e69f8245-f99e-4f4a-8b45-137b4564a09d" />
+
+<img width="716" height="722" alt="image" src="https://github.com/user-attachments/assets/5597c8c6-6ec0-4b3a-aefa-c6aba75cc4c5" />
+
+
+
 
 **Tools & Techniques**
 
